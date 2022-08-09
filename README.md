@@ -19,6 +19,12 @@
 - Dark Mode
 - FAQ'S
 
+## Stacks Used
+- Java
+- XML
+- Retrofit for https requests
+- Glide for loading Image URLs into imageviews
+
 ## Installation
 The application can be downloaded from Google Play Store.
 
